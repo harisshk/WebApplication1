@@ -50,6 +50,6 @@ namespace WebApplication1
         /// </remarks>
         protected global::System.Web.UI.WebControls.ImageButton ImageButton1;
 
-        protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
+        protected global::System.Web.UI.WebControls.DropDownList DropDownLis;
     }
 }
